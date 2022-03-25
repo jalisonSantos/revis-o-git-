@@ -3,3 +3,9 @@ body{
     background-color: blue;
     
 }
+#logo img{
+
+    width: 250px;
+    border: 2px solid coral;
+    border-radius: 10px;
+}
